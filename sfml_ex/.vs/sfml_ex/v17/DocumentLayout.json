@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Data\\Coding\\CUBOX AI\\C\u002B\u002B\\sfml_ex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2269DEB2-7A74-43E3-B912-FA285FE9C4BE}|sfml_ex\\sfml_ex.vcxproj|C:\\Data\\Coding\\CUBOX AI\\C\u002B\u002B\\sfml_ex\\sfml_ex\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2269DEB2-7A74-43E3-B912-FA285FE9C4BE}|sfml_ex\\sfml_ex.vcxproj|solutionrelative:sfml_ex\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Data\\Coding\\CUBOX AI\\C\u002B\u002B\\sfml_ex\\sfml_ex\\main.cpp",
+              "RelativeDocumentMoniker": "sfml_ex\\main.cpp",
+              "ToolTip": "C:\\Data\\Coding\\CUBOX AI\\C\u002B\u002B\\sfml_ex\\sfml_ex\\main.cpp",
+              "RelativeToolTip": "sfml_ex\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T11:29:25.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

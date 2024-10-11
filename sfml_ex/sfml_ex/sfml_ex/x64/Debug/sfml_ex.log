@@ -1,0 +1,28 @@
+﻿  test.c
+C:\SFML-2.6.1\include\SFML\Config.hpp(211,11): error C2061: syntax error: identifier 'sf'
+  (compiling source file 'test.c')
+  
+C:\SFML-2.6.1\include\SFML\Config.hpp(211,11): error C2059: syntax error: ';'
+  (compiling source file 'test.c')
+  
+C:\SFML-2.6.1\include\SFML\Config.hpp(212,1): error C2449: found '{' at file scope (missing function header?)
+  (compiling source file 'test.c')
+  
+C:\SFML-2.6.1\include\SFML\Config.hpp(245,1): error C2059: syntax error: '}'
+  (compiling source file 'test.c')
+  
+C:\SFML-2.6.1\include\SFML\System\Clock.hpp(35,11): error C2061: syntax error: identifier 'sf'
+  (compiling source file 'test.c')
+  
+C:\SFML-2.6.1\include\SFML\System\Clock.hpp(35,11): error C2059: syntax error: ';'
+  (compiling source file 'test.c')
+  
+C:\SFML-2.6.1\include\SFML\System\Clock.hpp(36,1): error C2449: found '{' at file scope (missing function header?)
+  (compiling source file 'test.c')
+  
+C:\SFML-2.6.1\include\SFML\System\Clock.hpp(84,1): error C2059: syntax error: '}'
+  (compiling source file 'test.c')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\yvals_core.h(23,1): error C1189: #error:  error STL1003: Unexpected compiler, expected C++ compiler.
+  (compiling source file 'test.c')
+  

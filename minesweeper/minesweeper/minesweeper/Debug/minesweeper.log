@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Data\Coding\CUBOX AI\C++\minesweeper\minesweeper\main.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Data\Coding\CUBOX AI\C++\minesweeper\minesweeper\main.cpp(95,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Data\Coding\CUBOX AI\C++\minesweeper\minesweeper\main.cpp(95,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  minesweeper.vcxproj -> C:\Data\Coding\CUBOX AI\C++\minesweeper\minesweeper\Debug\minesweeper.exe
