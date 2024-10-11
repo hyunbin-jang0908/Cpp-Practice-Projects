@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Data\\Coding\\CUBOX AI\\C\u002B\u002B\\minesweeper\\",
+  "WorkspaceRootPath": "C:\\Data\\Coding\\CUBOX AI\\C\u002B\u002B\\Cpp-Practice-Projects\\minesweeper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE998F09-378C-43CC-82F9-172824637360}|minesweeper\\minesweeper.vcxproj|C:\\Data\\Coding\\CUBOX AI\\C\u002B\u002B\\minesweeper\\minesweeper\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AE998F09-378C-43CC-82F9-172824637360}|minesweeper\\minesweeper.vcxproj|C:\\Data\\Coding\\CUBOX AI\\C\u002B\u002B\\Cpp-Practice-Projects\\minesweeper\\minesweeper\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AE998F09-378C-43CC-82F9-172824637360}|minesweeper\\minesweeper.vcxproj|solutionrelative:minesweeper\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Data\\Coding\\CUBOX AI\\C\u002B\u002B\\minesweeper\\minesweeper\\main.cpp",
+              "DocumentMoniker": "C:\\Data\\Coding\\CUBOX AI\\C\u002B\u002B\\Cpp-Practice-Projects\\minesweeper\\minesweeper\\main.cpp",
               "RelativeDocumentMoniker": "minesweeper\\main.cpp",
-              "ToolTip": "C:\\Data\\Coding\\CUBOX AI\\C\u002B\u002B\\minesweeper\\minesweeper\\main.cpp",
+              "ToolTip": "C:\\Data\\Coding\\CUBOX AI\\C\u002B\u002B\\Cpp-Practice-Projects\\minesweeper\\minesweeper\\main.cpp",
               "RelativeToolTip": "minesweeper\\main.cpp",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-03T16:43:59.943Z",
+              "WhenOpened": "2024-10-05T12:31:57.751Z",
               "EditorCaption": ""
             }
           ]

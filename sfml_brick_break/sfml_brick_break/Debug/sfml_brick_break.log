@@ -1,16 +1,16 @@
 ﻿  main.cpp
-C:\Data\Coding\CUBOX AI\C++\sfml_brick_break\sfml_brick_break\main.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Data\Coding\CUBOX AI\C++\sfml_brick_break\sfml_brick_break\main.cpp(33,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-C:\Data\Coding\CUBOX AI\C++\sfml_brick_break\sfml_brick_break\main.cpp(33,41): warning C4244:         with
-C:\Data\Coding\CUBOX AI\C++\sfml_brick_break\sfml_brick_break\main.cpp(33,41): warning C4244:         [
-C:\Data\Coding\CUBOX AI\C++\sfml_brick_break\sfml_brick_break\main.cpp(33,41): warning C4244:             T=unsigned int
-C:\Data\Coding\CUBOX AI\C++\sfml_brick_break\sfml_brick_break\main.cpp(33,41): warning C4244:         ]
-C:\Data\Coding\CUBOX AI\C++\sfml_brick_break\sfml_brick_break\main.cpp(33,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
-C:\Data\Coding\CUBOX AI\C++\sfml_brick_break\sfml_brick_break\main.cpp(33,28): warning C4244:         with
-C:\Data\Coding\CUBOX AI\C++\sfml_brick_break\sfml_brick_break\main.cpp(33,28): warning C4244:         [
-C:\Data\Coding\CUBOX AI\C++\sfml_brick_break\sfml_brick_break\main.cpp(33,28): warning C4244:             T=unsigned int
-C:\Data\Coding\CUBOX AI\C++\sfml_brick_break\sfml_brick_break\main.cpp(33,28): warning C4244:         ]
-C:\Data\Coding\CUBOX AI\C++\sfml_brick_break\sfml_brick_break\main.cpp(49,21): warning C4018: '<': signed/unsigned mismatch
-C:\Data\Coding\CUBOX AI\C++\sfml_brick_break\sfml_brick_break\main.cpp(58,21): warning C4018: '<': signed/unsigned mismatch
-C:\Data\Coding\CUBOX AI\C++\sfml_brick_break\sfml_brick_break\main.cpp(76,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  sfml_brick_break.vcxproj -> C:\Data\Coding\CUBOX AI\C++\sfml_brick_break\Debug\sfml_brick_break.exe
+C:\Data\Coding\CUBOX AI\C++\Cpp-Practice-Projects\sfml_brick_break\sfml_brick_break\main.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Data\Coding\CUBOX AI\C++\Cpp-Practice-Projects\sfml_brick_break\sfml_brick_break\main.cpp(33,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Data\Coding\CUBOX AI\C++\Cpp-Practice-Projects\sfml_brick_break\sfml_brick_break\main.cpp(33,41): warning C4244:         with
+C:\Data\Coding\CUBOX AI\C++\Cpp-Practice-Projects\sfml_brick_break\sfml_brick_break\main.cpp(33,41): warning C4244:         [
+C:\Data\Coding\CUBOX AI\C++\Cpp-Practice-Projects\sfml_brick_break\sfml_brick_break\main.cpp(33,41): warning C4244:             T=unsigned int
+C:\Data\Coding\CUBOX AI\C++\Cpp-Practice-Projects\sfml_brick_break\sfml_brick_break\main.cpp(33,41): warning C4244:         ]
+C:\Data\Coding\CUBOX AI\C++\Cpp-Practice-Projects\sfml_brick_break\sfml_brick_break\main.cpp(33,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Data\Coding\CUBOX AI\C++\Cpp-Practice-Projects\sfml_brick_break\sfml_brick_break\main.cpp(33,28): warning C4244:         with
+C:\Data\Coding\CUBOX AI\C++\Cpp-Practice-Projects\sfml_brick_break\sfml_brick_break\main.cpp(33,28): warning C4244:         [
+C:\Data\Coding\CUBOX AI\C++\Cpp-Practice-Projects\sfml_brick_break\sfml_brick_break\main.cpp(33,28): warning C4244:             T=unsigned int
+C:\Data\Coding\CUBOX AI\C++\Cpp-Practice-Projects\sfml_brick_break\sfml_brick_break\main.cpp(33,28): warning C4244:         ]
+C:\Data\Coding\CUBOX AI\C++\Cpp-Practice-Projects\sfml_brick_break\sfml_brick_break\main.cpp(49,21): warning C4018: '<': signed/unsigned mismatch
+C:\Data\Coding\CUBOX AI\C++\Cpp-Practice-Projects\sfml_brick_break\sfml_brick_break\main.cpp(58,21): warning C4018: '<': signed/unsigned mismatch
+C:\Data\Coding\CUBOX AI\C++\Cpp-Practice-Projects\sfml_brick_break\sfml_brick_break\main.cpp(76,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  sfml_brick_break.vcxproj -> C:\Data\Coding\CUBOX AI\C++\Cpp-Practice-Projects\sfml_brick_break\Debug\sfml_brick_break.exe
